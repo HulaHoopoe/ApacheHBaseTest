@@ -2,4 +2,3 @@ streamlit
 happybase
 faker
 pandas
-pkg_resources
